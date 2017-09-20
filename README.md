@@ -2,4 +2,4 @@
 scrap posts of Facebook group
 ## 環境
 - python3
-- selenium
+- selenium2
